@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+li{
+    list-style: none;
+    font-weight: bold;
+}
+
+.navbar{
+    margin: 76px 80px;
+}
+
+ul{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h1{
+    display: flex;
+   justify-content: center; 
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin: 128px 80px;
+}
+
+
+.right{
+    background-color: red;
+    padding: 187px 240px;
+    color: white;
+    font-size: 36px;
+}
